@@ -1,0 +1,13 @@
+package com.backend.demo.service;
+
+import java.util.List;
+
+import com.backend.demo.modelo.persona;
+
+public interface personaservice {
+	List<persona>Listar();
+	persona listarId(int id);
+	persona add(persona p);
+	persona edit(persona p);
+	persona delete(int id);
+}

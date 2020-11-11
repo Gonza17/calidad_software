@@ -1,0 +1,15 @@
+package com.backend.demo.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity  
+public class persona {
+	@Id
+	private int rut;
+	private String nombre;
+	private String Apellido;
+	private String Correo;
+	private int telefono;
+
+}

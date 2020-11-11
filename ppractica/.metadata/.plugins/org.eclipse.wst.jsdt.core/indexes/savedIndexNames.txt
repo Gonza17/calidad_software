@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\ppractica\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2192854935.index
+750340677.index
+2560931440.index
+2643595626.index
+221314787.index
+781371563.index
